@@ -1,7 +1,7 @@
 <template>
     <v-system-bar window>
       <v-menu offset-y transition="slide-y-transition">
-        <v-btn slot="activator">
+        <v-btn flat small right slot="activator">
           <v-icon>headset</v-icon> Menu
         </v-btn>
         <v-list>
